@@ -1,0 +1,1 @@
+document.getElementById('heading').innerHTML="제목입니다"

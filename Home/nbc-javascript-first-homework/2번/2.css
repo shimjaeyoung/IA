@@ -1,0 +1,9 @@
+div {
+    float: left;
+    border: 2px solid;
+    width: 100px;
+    height: 100px;
+}
+.box1{background-color: gold;}
+.box2{background-color: silver;}
+.box3{background-color: coral;}

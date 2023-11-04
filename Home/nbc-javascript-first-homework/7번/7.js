@@ -1,0 +1,1 @@
+document.getElementById("test").alt ="개발자";
